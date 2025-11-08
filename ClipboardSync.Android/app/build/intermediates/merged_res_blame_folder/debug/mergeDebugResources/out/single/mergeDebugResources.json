@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.clipboardsync.app-debug-46:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.clipboardsync.app-main-48:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.clipboardsync.app-debug-46:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.clipboardsync.app-main-48:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.clipboardsync.app-debug-46:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.clipboardsync.app-main-48:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.clipboardsync.app-debug-46:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "com.clipboardsync.app-main-48:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.clipboardsync.app-debug-46:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.clipboardsync.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.clipboardsync.app-debug-46:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "com.clipboardsync.app-main-48:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.clipboardsync.app-debug-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.clipboardsync.app-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.clipboardsync.app-debug-46:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.clipboardsync.app-main-48:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.clipboardsync.app-debug-46:/xml_file_paths.xml.flat",
+        "source": "com.clipboardsync.app-main-48:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.clipboardsync.app-debug-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.clipboardsync.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.clipboardsync.app-debug-46:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.clipboardsync.app-main-48:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.clipboardsync.app-debug-46:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.clipboardsync.app-main-48:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.clipboardsync.app-debug-46:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.clipboardsync.app-main-48:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.clipboardsync.app-debug-46:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.clipboardsync.app-main-48:/mipmap-xhdpi/ic_launcher.xml"
+    }
+]

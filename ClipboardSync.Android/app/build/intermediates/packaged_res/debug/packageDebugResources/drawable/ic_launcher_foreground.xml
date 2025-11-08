@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <group android:scaleX="0.8"
+      android:scaleY="0.8"
+      android:translateX="10.8"
+      android:translateY="10.8">
+    
+    <!-- 左边的剪贴板 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,25 L35,22 Q35,20 37,20 L41,20 Q43,20 43,22 L43,25 L47,25 Q49,25 49,27 L49,65 Q49,67 47,67 L29,67 Q27,67 27,65 L27,27 Q27,25 29,25 Z M32,30 L32,62 L44,62 L44,30 Z M38,22 L38,24 L38,22 Z"/>
+    
+    <!-- 右边的剪贴板 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,35 L65,32 Q65,30 67,30 L71,30 Q73,30 73,32 L73,35 L77,35 Q79,35 79,37 L79,75 Q79,77 77,77 L59,77 Q57,77 57,75 L57,37 Q57,35 59,35 Z M62,40 L62,72 L74,72 L74,40 Z M68,32 L68,34 L68,32 Z"/>
+    
+    <!-- 同步箭头 - 从左到右 -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M47,42 L52,42 L52,38 L60,44 L52,50 L52,46 L47,46 Z"/>
+    
+    <!-- 同步箭头 - 从右到左 -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M57,58 L52,58 L52,62 L44,56 L52,50 L52,54 L57,54 Z"/>
+    
+    <!-- 复选标记 -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M67,50 L69,52 L73,46"/>
+  </group>
+</vector>
